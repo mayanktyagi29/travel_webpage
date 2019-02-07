@@ -1,0 +1,75 @@
+#first_section{
+	background-color: black;
+	width: 100%;
+	height: 40px;
+}
+#gold{
+	color: #B8AB58;
+	float: left;
+}
+#form{
+	float: center;
+	position:relative;
+	margin-left: 900px;
+	margin-top: -30px;	
+}
+#first_bar{
+	width: 100%;
+	height: 60px;
+	background-color: white;
+}
+#travel_logo{
+	float: left;
+	width: 150px;
+	height: 34px;
+	position: relative;
+	margin-top: 10px;
+	margin-left: -350px;
+}
+
+.link{
+	color: black;
+	font-size: 20px;
+	text-decoration: none;
+}
+.text{
+	position: relative;
+	color: #B8AB58;
+	margin-left: 500px;
+	font-style: italic;
+	
+}
+#page-container{
+	width: 100%;
+	height: 400px;
+	background-color: white;
+
+}
+#size{
+	position: relative;
+	margin: 100px;
+	float: left;
+	width: 300px;
+}
+#ladakh{
+	float: left;
+	position: relative;
+	margin-top:95px;
+}
+#johan{
+	float: center;
+	position: relative;
+	margin-left: 400px
+}
+#third_section{
+	background-color: black;
+	width: 100%;
+	height: 200px;
+}
+#icon{
+	position: relative;
+	float: right;
+	margin-top: -45px;
+	padding: 10px;
+}
+
